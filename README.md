@@ -6,7 +6,7 @@
 
 *Transforming complex problems into scalable, observable architectures*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiomercado-26a64a209)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-mercado-26a64a209/?locale=es)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=netlify&logoColor=white)](https://fabio-mercado.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fabiomercadon@gmail.com)
 
@@ -147,7 +147,7 @@ Software Engineer at **Mercado Libre** with 2+ years of experience designing and
 
 ## 🌐 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/fabiomercado-26a64a209)
+- 💼 [LinkedIn](https://www.linkedin.com/in/fabio-mercado-26a64a209/?locale=es)
 - 🌍 [Personal Portfolio](https://fabio-mercado.netlify.app/)
 - 📧 Email: fabiomercadon@gmail.com
 - 📍 Location: Córdoba, Argentina
@@ -180,4 +180,5 @@ I believe in:
 **⭐ If you find my work interesting, consider giving it a star!**
 
 </div>
+
 
